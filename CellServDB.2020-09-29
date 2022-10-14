@@ -1,4 +1,4 @@
->grand.central.org      #GCO Public CellServDB 09 May 2022
+>grand.central.org      #GCO Public CellServDB 29 Sep 2020
 18.9.48.14                      #grand.mit.edu
 128.2.13.219                    #grand-old-opry.central.org
 >wu-wien.ac.at          #University of Economics, Vienna, Austria
@@ -25,12 +25,12 @@
 129.128.98.17                   #mystery.ucs.ualberta.ca
 129.128.125.40                  #drake.ucs.ualberta.ca
 >cern.ch                #European Laboratory for Particle Physics, Geneva
-137.138.54.120                  #afsdb13.cern.ch
 137.138.128.148                 #afsdb1.cern.ch
+137.138.246.50                  #afsdb3.cern.ch
 137.138.246.51                  #afsdb2.cern.ch
-188.184.21.218                  #afsdb11.cern.ch
-188.184.81.230                  #afsdb12.cern.ch
 >ams.cern.ch            #AMS Experiment
+137.138.188.185                 #ams.cern.ch
+137.138.199.58                  #pcamsf4.cern.ch
 >epfl.ch                #Swiss Federal Institute of Technology at Lausanne
 128.178.109.111                 #kd1.epfl.ch
 128.178.109.112                 #kd2.epfl.ch
@@ -59,8 +59,8 @@
 195.113.0.40                    #sal.ruk.cuni.cz
 >ics.muni.cz            #Masaryk university
 147.228.240.30                  #afs-plzen.meta.zcu.cz
-147.251.3.244                   #kuduk1.ics.muni.cz
-195.113.214.10                  #afs-praha.grid.cesnet.cz
+147.251.9.9                     #smaug2.ics.muni.cz
+195.113.214.4                   #tarkil-xen.cesnet.cz
 >zcu.cz                 #University of West Bohemia, Czech Republic
 147.228.10.18                   #sauron.zcu.cz
 147.228.52.10                   #oknos.zcu.cz
@@ -150,6 +150,10 @@
 129.206.119.10                  #afsdb.urz.uni-heidelberg.de
 129.206.119.16                  #afsdb1.urz.uni-heidelberg.de
 129.206.119.17                  #afsdb2.urz.uni-heidelberg.de
+>uni-hohenheim.de       #University of Hohenheim
+144.41.2.2                      #rs13.serv.uni-hohenheim.de
+144.41.2.3                      #rs14.serv.uni-hohenheim.de
+144.41.2.4                      #rs15.serv.uni-hohenheim.de
 >rz.uni-jena.de         #Rechenzentrum University of Jena, Germany
 141.35.2.180                    #afs00.rz.uni-jena.de
 141.35.2.181                    #afs01.rz.uni-jena.de
@@ -217,9 +221,8 @@
 >scotch.ece.cmu.edu     #CMU ECE CALCM research group
 128.2.134.82                    #lagavulin.ece.cmu.edu
 >qatar.cmu.edu          #Carnegie Mellon University - Qatar
-86.36.46.6                      #afsdb-01.qatar.cmu.edu
-86.36.46.7                      #afsdb-02.qatar.cmu.edu
-86.36.46.9                      #afsdb-03.qatar.cmu.edu
+86.36.46.6                      #afs1.qatar.cmu.edu
+86.36.46.7                      #afs2.qatar.cmu.edu
 >sbp.ri.cmu.edu         #Carnegie Mellon University - Sensor Based Planning Lab
 128.2.179.12                    #nihao.sbp.ri.cmu.edu
 128.2.179.113                   #youtheman.sbp.ri.cmu.edu
@@ -568,9 +571,11 @@
 130.237.216.12                  #afsdb2.ict.kth.se
 130.237.216.13                  #afsdb3.ict.kth.se
 >it.kth.se              #Royal Institute of Technology, Teleinformatics, Kista
-130.237.48.190                  #itafs-1.sys.kth.se
+130.237.216.14                  #afsdb1.it.kth.se
+130.237.216.15                  #afsdb2.it.kth.se
+130.237.216.16                  #afsdb3.it.kth.se
 >md.kth.se              #Royal Institute of Technology, MMK
-130.237.48.223                  #mdafs-2.sys.kth.se
+130.237.32.63                   #mdafs-1.sys.kth.se
 >mech.kth.se            #Royal Institute of Technology, MECH
 130.237.233.142                 #matterhorn.mech.kth.se
 130.237.233.143                 #castor.mech.kth.se
